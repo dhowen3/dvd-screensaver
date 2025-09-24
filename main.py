@@ -59,7 +59,7 @@ class Logo:
         self.initialize_pos()
 
     # return two-tuple with each elt. being random choice between -1 and 1
-    def initialize_direction(self) -> two_tuple:
+    def initialize_direction(self) -> int:
         return choice([-1,1])
 
     # increment index in COLORS list
