@@ -1,5 +1,4 @@
-<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/1a3d66b4-b77e-4af6-a6c5-8ce19db91761" />
-
+<img width="1920" height="1080" alt="Screenshot from 2025-09-24 15-40-29" src="https://github.com/user-attachments/assets/1f20f333-5974-46ee-8417-5c966efbc522" />
 
 # dvd-screensaver
 to run:
